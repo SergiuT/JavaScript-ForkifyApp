@@ -11,11 +11,11 @@
   "author": "Sergiu Tont",
   "license": "ISC",
   "devDependencies": {
-    "@babel/preset-env": "^7.4.5",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3"
   },
   "dependencies": {
+    "@babel/preset-env": "^7.4.5",
     "@babel/core": "^7.0.0",
     "babel-loader": "^8.0.6",
     "babel-polyfill": "^6.26.0",
